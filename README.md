@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Pinzon</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on [higher_level_programming](https://github.com/santiagoPinzonD/holbertonschool-higher_level_programming)
 
@@ -11,12 +11,9 @@
 
 - 📫 How to reach me **santiagopinzon456@gmail.com**
 
+[![Santiago's github stats](https://github-readme-stats.vercel.app/api?username=santiagopinzonD&show_icons=true&bg_color=071A2C&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopinzonD&bg_color=071A2C&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 
 <p align="center">
 <a href="https://twitter.com/santiagopinzonD" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30" /></a>
