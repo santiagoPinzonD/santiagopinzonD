@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santiago Pinzon</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on [higher_level_programming](https://github.com/santiagoPinzonD/holbertonschool-higher_level_programming)
+- 🌱 I’m currently working with **Python**
 
-- 🌱 I’m currently learning **Python and C**
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@santiagopinzon456)
+- 📝 I regularly write articles on [Medium](https://medium.com/@santiagopinzond)
 
 - 💬 Ask me about **Python and C**
 
