@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently working with **Python**
-- 📝  I’m currently learning *Go**
+- 📝  I’m currently learning **Go**
 - 📝 I regularly write articles on [Medium](https://medium.com/@santiagopinzond)
 
 - 💬 Ask me about **Python and C**
