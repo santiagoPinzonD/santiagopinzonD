@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Santiago Pinzon</h1>
-<h3 align="center">Semi Senior</h3>
 
 - 🌱 I’m currently working with **AWS**
 - 📝  I’m currently learning **Java**
